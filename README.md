@@ -1,5 +1,5 @@
 # DraggableYoutubeView
-Demo the view with effect like youtube player.
+Demo the view with effect like youtube player. [IOS][Swift]
 
 Screenshot
 ------------
